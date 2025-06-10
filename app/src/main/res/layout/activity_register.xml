@@ -53,14 +53,14 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Register"
-            android:backgroundTint="#4003A9F4"/>
+            android:backgroundTint="#FF0288D1"/>
 
         <Button
             android:id="@+id/btn_back_to_login"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Back"
-            android:backgroundTint="#8003A9F4"/>
+            android:backgroundTint="#FF0288D1"/>
     </LinearLayout>
 
 </RelativeLayout>
