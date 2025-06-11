@@ -1,4 +1,4 @@
-package com.example.imanqu;
+package com.example.imqu;
 
 import android.content.Context;
 

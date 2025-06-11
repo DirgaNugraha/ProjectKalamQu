@@ -7,7 +7,7 @@ android {
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.imanqu"
+        applicationId = "com.example.kalamqu"
         minSdk = 34
         targetSdk = 34
         versionCode = 1
